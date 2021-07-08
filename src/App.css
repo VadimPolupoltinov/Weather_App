@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 30px 0 30px;
+}
+.header__search-bar{
+    border-radius: 15px;
+    outline: none;
+    padding: 7px;
+}
